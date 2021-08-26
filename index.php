@@ -32,6 +32,7 @@
 		["q"=>"Dad, can you put the cat out?","a"=>"I didnt know it was on fire!!!"],
 		["q"=>"What did the ocean say to the sailboat?","a"=>"Nothing, it just waved!!!"],
 		["q"=>"What do you get when you cross a snowman with a vampire?","a"=>"Frostbite!!!"]
+		["q"=>"Why do fathers take an extra pair of socks when they go golfing?","a"=>"In case they get a hole in one!!!!"]
 	];
 	
 	
